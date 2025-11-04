@@ -1,0 +1,33 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.con {
+  background-image: url(./header.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 773px;
+  width: 1440px;
+}
+.bor {
+  border: 1px solid;
+  align-items: center;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+}
+.links1 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+.links3 {
+  display: flex;
+  justify-content: end;
+}
+.a {
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
+}
